@@ -12,6 +12,7 @@ Coordenadores: Evandro Alves de Souza e João Vitor Longo Salvioni
 
 
 Agradecimentos:
+Permite realizar todos os testes em uma unica sessão:
 https://community.cisco.com/t5/call-control/unable-to-execute-second-python-interact-send-command-in-my/td-p/4913623
 Marcel Zehnder e @mradell 
 '''
